@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Мої лаби</string>
+    <string name="action_settings">Параметри</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Перший фрагмент</string>
+    <string name="next">Далі</string>
+    <string name="previous">Назад</string>
+
+    <string name="hello_first_fragment">Ласкаво прошу до моїх лаб</string>
+
+    <string name="sun">Сонце</string>
+    <string name="grass">Трава</string>
+    <string name="sky">Небо</string>
+
+    <string name="lab2">Лаба 2</string>
+    <string name="lab3">Лаба 3</string>
+
+</resources>

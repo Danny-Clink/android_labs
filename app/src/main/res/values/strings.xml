@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyLabs</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Welcome to my labs</string>
+
+    <string name="sun">Sun</string>
+    <string name="grass">Grass</string>
+    <string name="sky">Sky</string>
+
+    <string name="lab2">Lab 2</string>
+    <string name="lab3">Lab 3</string>
+
+</resources>
